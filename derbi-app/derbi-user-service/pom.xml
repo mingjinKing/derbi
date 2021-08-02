@@ -11,5 +11,11 @@
 
     <artifactId>derbi-user-service</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <artifactId>derbi-base</artifactId>
+            <groupId>cn.net.derbi</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
