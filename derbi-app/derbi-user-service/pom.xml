@@ -13,7 +13,7 @@
 
     <dependencies>
         <dependency>
-            <artifactId>derbi-base</artifactId>
+            <artifactId>derbi-common</artifactId>
             <groupId>cn.net.derbi</groupId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
