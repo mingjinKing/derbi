@@ -106,8 +106,6 @@
                 <version>${commons.codec.version}</version>
             </dependency>
 
-
-
             <!--接口文档依赖-->
             <dependency>
                 <groupId>io.springfox</groupId>
@@ -115,7 +113,12 @@
                 <version>${springfox.boot.starter.version}</version>
             </dependency>
 
-
+            <!--阿里云oss-->
+            <dependency>
+                <groupId>com.aliyun.oss</groupId>
+                <artifactId>aliyun-sdk-oss</artifactId>
+                <version>3.10.2</version>
+            </dependency>
 
         </dependencies>
     </dependencyManagement>

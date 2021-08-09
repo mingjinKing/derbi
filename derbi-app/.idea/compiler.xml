@@ -7,12 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="derbi-gateway" />
         <module name="derbi-coupon-service" />
         <module name="derbi-order-service" />
-        <module name="derbi-product-service" />
-        <module name="derbi-gateway" />
-        <module name="derbi-common" />
         <module name="derbi-user-service" />
+        <module name="derbi-product-service" />
+        <module name="derbi-common" />
       </profile>
     </annotationProcessing>
   </component>
